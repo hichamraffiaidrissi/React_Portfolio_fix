@@ -1,0 +1,27 @@
+[
+    {
+        "id": 3,
+        "image": "https://github.com/hichamraffiaidrissi/Note_Taker/blob/main/public/assets/images/Screenshot-1.png?raw=true",
+        "name": "Nota Taker",
+        "github": "https://github.com/hichamraffiaidrissi/Note_Taker",
+        "deploy": "https://peaceful-hamlet-57682.herokuapp.com/",
+        "topics": ["Note Taker it can allow users to write, save and delete notes on their own."]
+    },
+    {
+        "id": 3,
+       
+        "name": "Workout routine app",
+        "image":"https://user-images.githubusercontent.com/123151991/228069945-93910723-bfb0-4ce7-9d60-9122759cb0c2.png",
+        "github": "https://github.com/hichamraffiaidrissi/workout-routine-app",
+        "deploy": "https://evelynms1.github.io/workout-routine-app/",
+        "topics": ["Fitness web app designed to help users create workouts, track progress and stay motivated."]
+    },
+    {
+        "id": 3,
+        "image": "https://github.com/hichamraffiaidrissi/Model-View-Controller-MVC-Tech-Blog/blob/main/public/images/Screenshot-2.png?raw=true",
+        "name": "Model-View-Controller-MVC-Tech-Blog",
+        "github": "https://github.com/hichamraffiaidrissi/Model-View-Controller-MVC-Tech-Blog",
+        "deploy": "https://model-viewcontroller.herokuapp.com/",
+        "topics": ["AS A developer who writes about tech I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my thoughts and opinions"]
+    }
+]
